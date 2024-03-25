@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](#Introductiom-\&-info)
    - [Required Hardware](#required-hardware)
    - [Optional Hardware](#optional-hardware)
    - [Powering the xtouch Screen](#powering-the-xtouch-screen)
@@ -29,7 +29,7 @@
 
 > **Warning** > [P1P/S 01.04.00.00 LAN Mode Bug](#p1ps-01040000-lan-mode-bug)
 
-## Introduction
+## Introduction & info
 
 The xtouch screen is a revolutionary addition to your BambuLab Printer, enhancing the user experience and providing advanced control and monitoring capabilities. This detailed README.md guide will walk you through the product's features, installation process, and the functionality of different screens.
 
